@@ -260,12 +260,4 @@ TASK      - IDENTIFYING THE CLOTH TYPE ,QUANTITY & WEIGHT
 	else{
 	}
 
-
-
-
-
-
-
-
-
 }
