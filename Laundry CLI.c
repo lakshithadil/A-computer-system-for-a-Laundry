@@ -5,16 +5,12 @@ GROUP NUMBER - 50
 
 
 
-
 #include <stdio.h>
 void main()
 {
 
 
-
-
 //WELCOME SCREEN
-
 
 for(int i=0;i<33;i++){
 		printf("*");
@@ -41,7 +37,6 @@ for(int i=0;i<33;i++){
 		
 	
 	printf("\n\n\nProject Title : A Computer System For A Laundry \nPurpose       : Manage the laundry\n");
-
 
 	
 while(1){
@@ -87,18 +82,11 @@ break;
 
 
 
-
-
-
-
-
 //COMPONENT 1 -TASK
-
 /*
 COMPONENT  - REGISTRATION
 TASK       - ADDING NEW CUSTOMER TO THE SYSTEM
 */
-
 
 
 while(1){
@@ -140,7 +128,6 @@ while(1){
 
 
 //COMPONENT 2 -TASK
-
 /*
 COMPONENT - CATEGORIZATION
 TASK      - CLOTH TYPE CATEGORIZATION
@@ -186,21 +173,11 @@ TASK      - CLOTH TYPE CATEGORIZATION
 	printf("\n\n");
 
 
-
-
-
-
-
 //COMPONENT 3 -TASK
-
 /*
 COMPONENT - PAYMENT SYSTEM
 TASK      - IDENTIFYING THE CLOTH TYPE ,QUANTITY & WEIGHT
 */
-
-
-
-
 
 
 	float w[4];
